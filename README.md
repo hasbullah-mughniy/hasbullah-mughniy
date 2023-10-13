@@ -8,4 +8,4 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=hasbullah-mughniy&show_icons=true&theme=algolia&hide_border=true&count_private=true&line_height=27"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasbullah-mughniy&theme=algolia&hide_border=true&langs_count=2&count_private=true&hide=blade,scss,css&exclude_repo=badaso"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasbullah-mughniy&theme=algolia&hide_border=true&langs_count=5&count_private=true&hide=blade,scss,css&exclude_repo=badaso"/>
